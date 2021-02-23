@@ -5,6 +5,9 @@ Site: https://luccazx12.github.io/viajou/viajou/index.html/
 
   **Atividade Solicitada por: Professor Atila Andreatti Olivi, da turma 2DM.**
 
+&nbsp;
+
+
 # VIAJOU
 
 Criado a partir de uma sátira com a ambiguidade presente em seu nome, Viajou é um site sobre curiosidades culturais, cotações e viagens para outros países, criado em conjunto pela Equipe de desenvolvimento 777 da turma 2DM do SENAI.
@@ -45,9 +48,6 @@ O site conta com um layout responsivo e com uma harmonização de cores utilizan
 ![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/logo/logoviajou.png)
 
 &nbsp;
-
-## **Logo do VIAJOU**
-![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/logo/logoviajou.png)
 
 
 ## **Paletas de Cores Utilizadas**
