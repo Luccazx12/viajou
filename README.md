@@ -34,3 +34,7 @@ O site conta com um layout responsivo e com uma harmonização de cores utilizan
 ## **Layout da página codificada em HTML5 e CSS3, no navegador**
 
 ![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/print_layout_da_pagina/viajou.JPG)
+
+
+## **Logo do VIAJOU**
+![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/logo/logoviajou.PNG)
