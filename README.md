@@ -16,11 +16,6 @@ O site conta com um layout responsivo e com uma harmonização de cores utilizan
 
 &nbsp;
 
-## Manual
-
-![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/print_layout_da_pagina/viajou.JPG)
-&nbsp;
-
 
  ## **Wireframe**
 
