@@ -11,6 +11,8 @@ Criado a partir de uma sátira com a ambiguidade presente em seu nome, Viajou é
 
 O site conta com um layout responsivo e com uma harmonização de cores utilizando Paletas do Adobe Color. Além disso, também consumimos dados de uma API pública e de nossos próprios JSONs.
 
+&nbsp;
+
 
  ## **Wireframe**
 
@@ -36,5 +38,21 @@ O site conta com um layout responsivo e com uma harmonização de cores utilizan
 ![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/print_layout_da_pagina/viajou.JPG)
 
 
+&nbsp;
+
+
 ## **Logo do VIAJOU**
 ![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/logo/logoviajou.png)
+
+&nbsp;
+
+## **Logo do VIAJOU**
+![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/logo/logoviajou.png)
+
+
+## **Paletas de Cores Utilizadas**
+![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/paleta_de_cores/AdobeColor(1).jpeg)
+
+![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/paleta_de_cores/AdobeColor(2).jpeg)
+
+![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/paleta_de_cores/AdobeColor(3).jpeg)
