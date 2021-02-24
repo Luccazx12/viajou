@@ -3,7 +3,7 @@
 
 **Site:** [**https://luccazx12.github.io/viajou/viajou/index.html**](https://luccazx12.github.io/viajou/viajou/index.html)
 
-  **Atividade Solicitada por: Professor Atila Andreatti Olivi, da turma 2DM.**
+  **Atividade Solicitada por: Professor Atila Andreatti Olivi, da turma 2DMm.**
 
 &nbsp;
 
