@@ -44,7 +44,7 @@ O site conta com um layout responsivo e com uma harmonização de cores utilizan
 &nbsp;
 
 
-## **Logo do VIAJOU**
+## **Logo do VIAJOU*
 ![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/logo/logoviajou.png)
 
 &nbsp;
