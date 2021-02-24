@@ -55,4 +55,4 @@ O site conta com um layout responsivo e com uma harmonização de cores utilizan
 
 ![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/paleta_de_cores/AdobeColor(2).jpeg)
 
-![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/paleta_de_cores/AdobeColor(3).jpeg).
+![Image](https://raw.githubusercontent.com/Luccazx12/viajou/main/docs/paleta_de_cores/AdobeColor(3).jpeg)
