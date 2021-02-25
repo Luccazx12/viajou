@@ -15,7 +15,7 @@ deck = [
         imgtxt: "./images/cultura.jpg",
         txt1: "O Japão exibe uma cultura multifacetada, com tradições milenares. Embora tenha raízes na cultura chinesa, a distância geográfica permitiu ao Japão a construção de um modelo cultural diferenciado .",
         txt2: "Diferente do que ocorre no Ocidente, no Japão, não há pregações religiosas e a religião não é vista como doutrina, mas um modo de vida.",
-        txxt: "João é viado",
+        txxt: "xxx",
 
         h02: "1. Universal Studios Japão",
         imgturisco1: "./images/picjp1.jpg",
