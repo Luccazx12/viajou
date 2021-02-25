@@ -1,9 +1,8 @@
 # viajou
-  Projeto Acadêmico realizado pela Equipe de desenvolvimento 777 em paralelo à matéria H0 - SCRUM, MVC, GIT e H1 - Consumo de API  do segundo semestre do Curso Técnico de Desenvolvimento de Sistemas do Senai.
+  Projeto Acadêmico realizado pela Equipe de desenvolvimento 777 em paralelo à matéria H0 - SCRUM, MVC, GIT e H1 - Consumo de API  do segundo semestre do Curso Técnico de Desenvolvimento de Sistemas do SENAI.
 
 **Site:** [**https://luccazx12.github.io/viajou/viajou/index.html**](https://luccazx12.github.io/viajou/viajou/index.html)
 
-  **Atividade Solicitada por: Professor Atila Andreatti Olivi, da turma 2DM.**
 
 &nbsp;
 
