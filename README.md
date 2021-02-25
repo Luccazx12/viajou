@@ -2,11 +2,11 @@
 
 Projeto Acadêmico realizado pela Equipe de desenvolvimento 777 em paralelo à matéria H0 - SCRUM, MVC, GIT e H1 - Consumo de API  do segundo semestre do Curso Técnico de Desenvolvimento de Sistemas do SENAI.
 
-**Site:** [**https://luccazx12.github.io/viajou/viajou/index.html**](https://luccazx12.github.io/viajou/viajou/index.html)
-
 Criado a partir de uma sátira com a ambiguidade presente em seu nome, Viajou é um site sobre curiosidades culturais, cotações e viagens para outros países, criado em conjunto pela Equipe de desenvolvimento 777 da turma 2DM do SENAI.
 
 O site conta com um layout responsivo e com uma harmonização de cores utilizando Paletas do Adobe Color. Além disso, também consumimos dados de uma API pública e de nossos próprios JSONs.
+
+**Site:** [**https://luccazx12.github.io/viajou/viajou/index.html**](https://luccazx12.github.io/viajou/viajou/index.html)
 
 &nbsp;
 
